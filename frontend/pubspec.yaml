@@ -53,6 +53,10 @@ dependencies:
 
   # images
   cached_network_image: ^3.3.1
+  flutter_drawing_board: ^0.9.8
+
+  # websockets
+  socket_io_client: ^2.0.3+1
 
 dev_dependencies:
   flutter_test:
